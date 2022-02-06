@@ -1,0 +1,4 @@
+queue = ['John', 'Amy', 'Bob', 'Adam']
+person = input()
+queue.append(person)
+print(queue)
